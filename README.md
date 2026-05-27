@@ -13,7 +13,7 @@
 读者写者--lab3reader.c
 
 
-哲学家进餐--labeat.c
+哲学家进餐--lab3eat.c
 
 
 （4）文件系统--lab4.c
